@@ -1,0 +1,6 @@
+Introduction to programming
+
+- program is set of instructions the computers execute to complete a computational tasks. 
+
+-  
+

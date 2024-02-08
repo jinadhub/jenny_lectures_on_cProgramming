@@ -1,0 +1,14 @@
+- Programs must be converted into machine code before it can be executed by the computer 
+- Low level languages
+	-there are two languages 
+		- machine language: machine oriented, close to the hardware, hence you need to strong knowledge of the sytem architecture. Architectures of CPU are different. It is computer architecture dependent.  
+		- assembly language: In this language we can use symbols 
+			e.g add for +; sub for - assembly language are more readable to humans. 
+			- the assembler compile the code into machine code before execution, slower than machine language 
+
+- High level language:
+	- Not machine dependent but are sometimes OS dependent. 
+	- Close to human than the machine, more understandable to humans 
+	- must be converted into machine code
+	- the conversion to done by the compiler or the interpreter 
+	- It is slower due to the conversion into machine code
